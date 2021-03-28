@@ -1,0 +1,20 @@
+@keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.1); }
+    to { transform: none; }
+}
+
+.btn-whatsapp {
+    width: 70px;
+    height: 70px;
+    position: fixed;
+    bottom: 10px;
+    border-radius: 50%;
+    line-height: 80px;
+    z-index: 999;
+    left: 20px;
+}
+
+.animation{
+    animation: latidos 3s infinite;
+}
