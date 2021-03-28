@@ -8,7 +8,7 @@
 
 - Tested only on version 1.7
 
-**hola
+** hola
 
 ## pswhatsaap
 
