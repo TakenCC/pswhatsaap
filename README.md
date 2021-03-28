@@ -1,6 +1,6 @@
 ## pswhatsaap
 
-- Just download and zip the deactivateproducts folder and upload the module in your store's module manager
+- Just download and zip the pswhatsaap folder and upload the module in your store's module manager
 
 - WhatsApp module developed for prestashop 1.7
 
@@ -11,7 +11,7 @@
 
 ## pswhatsaap
 
-- Simplemente descargue y comprima la carpeta deactivateproducts y cargue el módulo en el administrador de módulos de su tienda
+- Simplemente descargue y comprima la carpeta pswhatsaap y cargue el módulo en el administrador de módulos de su tienda
 
 - WhatsApp module developed for prestashop 1.7
 
