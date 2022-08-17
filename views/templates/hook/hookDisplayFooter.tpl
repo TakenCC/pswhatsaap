@@ -1,4 +1,4 @@
-<a href="https://api.whatsapp.com/send?phone={$pswhatsaap_NumWhat}" target="_blank" class="btn-whatsapp {if $pswhatsaap_animation == '1'} animation{/if}">
+<a href="https://wa.me/message/NWGBZ6OYHR47M1" target="_blank" class="btn-whatsapp {if $pswhatsaap_animation == '1'} animation{/if}">
     <span>Chat</span>
     <div>
         <figure>
