@@ -51,7 +51,8 @@
 /* For extremely small screen devices (595px and below) */
 @media only screen and (max-width: 595px) {
     .btn-whatsapp {
-        right: 20px;
+        right: 16px;
+        bottom: 36px;
     }
 
     .btn-whatsapp > span {
